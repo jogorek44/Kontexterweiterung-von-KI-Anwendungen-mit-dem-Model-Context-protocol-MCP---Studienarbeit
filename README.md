@@ -1,5 +1,5 @@
 # Kontexterweiterung-von-KI-Anwendungen-mit-dem-Model-Context-Protocol-MCP---Studienarbeit
-Repository zur Studienarbeit mit dem Titel: Kontexterweiterung von KI-Anwendungen mit dem Model Context protocol (MCP)
+Repository zur Studienarbeit mit dem Titel: Kontexterweiterung von KI-Anwendungen mit dem Model Context Protocol (MCP)
 
 In diesem Repository sind zu finden: 
 der für den in der Studienarbeit beschriebenen Versuch geschriebene Code und
